@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Rav_CustomFont">
+        <attr name="rav_font" format="string" />
+        <attr name="rav_fontisRegular" format="boolean" />
+    </declare-styleable>
+
+    <declare-styleable name="Rav_CustomFontTextView">
+        <attr name="fontIsLight" format="boolean" />
+    </declare-styleable>
+
+    <declare-styleable name="CircleButton">
+        <attr name="cb_color" format="color" />
+        <attr name="cb_pressedRingWidth" format="dimension" />
+    </declare-styleable>
+
+
+</resources>
