@@ -9,7 +9,7 @@ import com.app.ob.component.ApplicationComponent;
 import butterknife.ButterKnife;
 
 /**
- * Created by Niranjan on 12/13/16.
+ * Created by Niranjan on 04/04/17.
  */
 
 public abstract class BaseActivity extends AppCompatActivity {

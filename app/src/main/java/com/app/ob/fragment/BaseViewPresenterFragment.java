@@ -11,7 +11,7 @@ import com.app.ob.presenter.BasePresenterImpl;
 import com.app.ob.presenter.BaseView;
 
 /**
- * Created by niranjan on 05/09/16.
+ * Created by niranjan on 04/04/17.
  */
 
 public abstract class BaseViewPresenterFragment<P extends BasePresenterImpl> extends BaseFragment implements BaseView {

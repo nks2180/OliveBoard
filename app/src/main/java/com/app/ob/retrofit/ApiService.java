@@ -9,7 +9,7 @@ import retrofit2.http.Path;
 import retrofit2.http.QueryMap;
 
 /**
- * Created by niranjan on 03/01/16.
+ * Created by niranjan on 04/04/17.
  * Custom interface to declare all API calls
  */
 public interface ApiService {
